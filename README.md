@@ -5,7 +5,7 @@
 
 The original base README has also been made by BehemothProgrammer i just changed a few things as this version does not offer a dedicated server. (yet?)
 
-> **NOTE:** Any bugs found in this version should NOT be reported to the original mod pages and author as they might've been introduced by me. (Akentrus)  
+> **NOTE:** Any bugs found in this version should NOT be reported to the original mod pages and author as they might've been introduced by me.  
 >
 > I've gotten the okay from the original mod author to port this mod but he still recommends to stick with the kex3 version as this is proven to be more stable  
 >
