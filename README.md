@@ -1,4 +1,4 @@
-# Turok 2 Remaster Unofficial Kex4.5 Co-Op Mod Port
+# Turok 2 Remaster Co-Op Mod Unofficial Kex4.5 Port
 
 **Original By:** BehemothProgrammer  
 **Ported By:** Akentrus
