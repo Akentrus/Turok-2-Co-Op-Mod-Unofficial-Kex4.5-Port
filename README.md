@@ -51,8 +51,6 @@ To load your game the one who saved has to click load co op game in the main men
 
 When in game Open the console (with the `~` key) and type `call help` (no quotes) for a list of all console commands.
 
-If you're using the Dedicated Server App type in the console tab window instead.
-
 ### Server Cheat Commands
 
 | Command | Description |
@@ -94,7 +92,6 @@ If you're using the Dedicated Server App type in the console tab window instead.
 | `call cloak` | Toggles players cloaking |
 | `call leader0 .. 15` | Sets a player with id as the party leader. Type playeridx to find the player id |
 | `call noleader` | Make it so there is no party leader |
-| `call autosave` | Toggle dedicated server auto saving |
 | `call restart` | Restarts the current map as you entered it |
 | `call newgame` | Start a new game when the next map begins |
 
